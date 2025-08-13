@@ -1,9 +1,8 @@
 # PLC-Programming-Showcase
 
-This repository contains PLC programs developed using **Allen-Bradley Studio 5000**. 
-Each program demonstrates specific control logic techniques in **Ladder Logic** and **Function Block Diagram (FBD)**.
+This repository contains PLC programs developed using Allen-Bradley Studio 5000. Each program demonstrates specific control logic techniques in Ladder Logic and Function Block Diagram (FBD). The original Studio 5000 project files are not included, as they require proprietary software to open and run. Instead, detailed screenshots of each program are provided to clearly illustrate the implemented logic and design techniques.
 
-## 📂 Programs Included
+## Programs Included:
 
 1. [Air Extractor Fan Motor Control](extractor_fan__control/README.md)
 2. [Switch Logic Equation in FBD](switch_logic_FBD/README.md)
