@@ -1,3 +1,4 @@
+![PLC](https://img.shields.io/badge/Language-PLC%20(Allen%20Bradley%20Studio%205000)-blue)
 # PLC-Programming-Showcase
 
 This repository contains PLC programs developed using Allen-Bradley Studio 5000. Each program demonstrates specific control logic techniques in Ladder Logic and Function Block Diagram (FBD). The original Studio 5000 project files are not included, as they require proprietary software to open and run. Instead, detailed screenshots of each program are provided to clearly illustrate the implemented logic and design techniques.
