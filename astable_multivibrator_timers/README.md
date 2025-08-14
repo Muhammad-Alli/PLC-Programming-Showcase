@@ -10,7 +10,7 @@ Two timers form an astable multivibrator to control a light switching on and off
 ## Implementation Summary
 - Two alternating timers control light on/off cycle.
 - ADD and SUBTRACT buttons adjust presets.
-- **One-Shot Rising (ONS)** instructions on ADD and SUBTRACT inputs ensure only one adjustment per button press
+- **One-Shot Rising (ONS)** instructions on ADD and SUBTRACT inputs
 - Comparisons enforce 2s minimum, 10s maximum.
 - Increment/decrement steps of 0.5s.
 
