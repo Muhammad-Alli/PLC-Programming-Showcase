@@ -4,9 +4,9 @@ This repository contains PLC programs developed using Allen-Bradley Studio 5000.
 
 ## Programs Included:
 
-1. [Air Extractor Fan Motor Control](extractor_fan__control/README.md)
-2. [Switch Logic Equation in FBD](switch_logic_FBD/README.md)
-3. [Astable Multivibrator with Timer Control](astable_multivibrator_timers/README.md)
-4. [Hazardous Gas Safety System (Fail-Safe)](mine_gas_safety_system/README.md)
-5. [Add-On Instruction: Alarm Trigger](AOI_alarm_trigger/README.md)
-6. [Add-On Instruction: Factory Door Control](AOI_factory_door_control/README.md)
+1. [Switch Logic Equation in FBD](switch_logic_FBD/README.md)
+2. [Air Extractor Fan Motor Control](extractor_fan__control/README.md)
+4. [Astable Multivibrator with Timer Control](astable_multivibrator_timers/README.md)
+5. [Hazardous Gas Safety System (Fail-Safe)](mine_gas_safety_system/README.md)
+6. [Add-On Instruction: Alarm Trigger](AOI_alarm_trigger/README.md)
+7. [Add-On Instruction: Factory Door Control](AOI_factory_door_control/README.md)
