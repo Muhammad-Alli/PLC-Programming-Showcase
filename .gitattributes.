@@ -1,0 +1,9 @@
+# Allen-Bradley Studio 5000 files
+*.LD linguist-language=PLC      # Ladder Diagram
+*.FBD linguist-language=PLC     # Function Block Diagram
+
+# Future extensions (commented out for now)
+# *.ST linguist-language=PLC    # Structured Text
+# *.L5X linguist-language=PLC   # L5X XML export
+# *.L5K linguist-language=PLC   # L5K ASCII export
+# *.ACD linguist-language=PLC   # Project file
